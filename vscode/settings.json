@@ -82,7 +82,8 @@
         "version": "cpp",
         "__hash_table": "cpp",
         "__tree": "cpp",
-        "forward_list": "cpp"
+        "forward_list": "cpp",
+        "stacktrace": "cpp"
     },
     "cmake.buildDirectory": "${workspaceRoot}/cmake-build-${buildType}",
 }
